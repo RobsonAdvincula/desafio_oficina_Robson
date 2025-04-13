@@ -1,7 +1,7 @@
 # desafio_oficina_Robson
 Entrega do desafio oficina curso banco de dados da DIO
 
-🛠Sistema de Gerenciamento de Oficina – Projeto de Banco de Dados
+Sistema de Gerenciamento de Oficina – Projeto de Banco de Dados
 Descrição Geral
 Este projeto tem como objetivo implementar um sistema de gerenciamento de ordens de serviço para uma oficina mecânica, utilizando os conceitos de modelagem de banco de dados relacional. A aplicação cobre desde o modelo lógico, passando pela criação de tabelas em SQL, inserção de dados para testes, até consultas complexas utilizando JOIN, GROUP BY, HAVING, ORDER BY, entre outras cláusulas SQL.
 
